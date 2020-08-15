@@ -980,3 +980,63 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ccc;
 }
+
+.kotak_login{
+	width: 360px;
+	background: rgba(0,0,0, 0.4);
+	margin: 120px auto;
+	padding: 30px 20px;
+	}
+			 
+label{
+	font-size: 11pt;
+	color:white:
+	  }
+			 
+.form_login{
+	  box-sizing : border-box;
+		width: 100%;
+		padding: 10px;
+		font-size: 11pt;
+		margin-bottom: 20px;
+	  }
+			 
+.tombol_login{
+	  background: #46de4b;
+		color: white;
+		font-size: 11pt;
+		width: 100%;
+		border: none;
+		border-radius: 3px;
+		padding: 10px 20px;
+		}
+.tombol_login: hover{
+		color:red;
+		}
+.tombol_login: active{
+		color: green;
+	  }
+.tombol_login: visited{
+		background:yellow;
+		}
+			 
+.link{
+		font-size: 10pt;
+		}
+.link: hover{
+		color:red;
+		}
+.link: active{
+		color:green;
+		}
+.link: visited{
+  background: yellow;
+		}
+			
+.body4{
+	  font-family: sans-serif;
+		}
+.a{
+	  text-decoration:none;
+		font-weight:bold;
+	  }
