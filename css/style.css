@@ -989,6 +989,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 	color:white;
 }
 
+.tulisan_login1{
+	text-align: center;
+	text-transform: uppercase;
+	font-family:Times New Norman;
+	color:white;
+	font-size:10pt;
+
 .kotak_login{
 	width: 360px;
 	background: rgba(0,0,0, 0.4);
